@@ -6,7 +6,7 @@ I have used the following to make it:
           - for loops
           - while loop
           - Hash Map
-          - Scanner clas
+          - Scanner class
           - 2D Array
           - Exception Handling
    Next possible plans make it co op.
