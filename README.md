@@ -10,3 +10,5 @@ I have used the following to make it:
           - 2D Array
           - Exception Handling
    Next possible plans make it co op.
+   
+   <a href="https://wakatime.com/badge/github/DanielAndrei1/Tic-Tac-Toe"><img src="https://wakatime.com/badge/github/DanielAndrei1/Tic-Tac-Toe.svg" alt="wakatime"></a>
